@@ -84,8 +84,7 @@ graph-metrics/
 ├── Quantifications for graph metrics 5-19-25.ipynb # Main notebook with all graph metric code
 ├── README.md # Repository documentation
 ├── requirements.txt # Required Python packages
-├── .gitignore # Files/folders to exclude from Git tracking
-└── output/ # (Optional) Folder for saved results
+└── .gitignore # Files/folders to exclude from Git tracking
 
 
 ---
