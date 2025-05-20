@@ -6,7 +6,7 @@ All analyses are implemented in a single Jupyter notebook and cover the followin
 
 ---
 
-## 📊 Metrics Implemented
+## Metrics Implemented
 
 ### 1. **PageRank**
 - **Type**: Directed graph
@@ -81,7 +81,7 @@ All analyses are implemented in a single Jupyter notebook and cover the followin
 ## 📁 File Structure
 graph-metrics/
 │
-├── Quantifications for graph metrics 5-19-25.ipynb # Main notebook with all graph metric code
+├── Quantifications for graph metrics.ipynb # Main notebook with all graph metric code
 ├── README.md # Repository documentation
 ├── requirements.txt # Required Python packages
 └── .gitignore # Files/folders to exclude from Git tracking
@@ -89,7 +89,7 @@ graph-metrics/
 
 ---
 
-## 🚀 How to Use This Repository
+## How to Use This Repository
 
 1. **Clone the repository** or download it as a ZIP:
    ```bash
