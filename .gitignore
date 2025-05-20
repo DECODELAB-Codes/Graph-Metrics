@@ -1,0 +1,14 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore output files
+*.csv
+*.xlsx
+*.png
+
+# Optional: ignore all output folders
+output/
