@@ -1,4 +1,4 @@
-# Graph-Metrics
+# Graph-Metrics-Quantifications
 
 This repository contains a comprehensive collection of Python-based graph metric quantifications applied to functional connectivity networks derived from single-unit neuronal data. These metrics are computed on a per-animal basis and capture distinct aspects of network structure during cognitive tasks such as fear conditioning and extinction.
 
